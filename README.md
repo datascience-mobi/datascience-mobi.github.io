@@ -40,8 +40,8 @@ After this module, you will have
 
 ## News
 
-* Final presentations will be on **Wednesday, July 14th** (with +/- 1-2 days flexibility in case of agenda collision!) Presentations will be **15 minutes + 10 minutes questions**.
-* Final reports should be completed (in GitHub, as pdf) by **Monday, July 12th, 11.59pm**; Max 10 pages report (without the references).
+* Final presentations will be on **Wednesday, July 21th** (with +/- 1-2 days flexibility in case of agenda collision!) Presentations will be **15 minutes + 10 minutes questions**.
+* Final reports should be completed (in GitHub, as pdf) by **Monday, July 19th, 11.59pm**; Max 10 pages report (without the references).
 * Introduction meeting on **Wednesday, 14th April** at 10am; use [this link](https://us02web.zoom.us/j/87844285254?pwd=NGFEYXdiRU42MEIxcmdLR2phMXlGQT09)
 * Project proposal presentation will take place on **Wednesday, 12th May**
 
