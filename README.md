@@ -19,7 +19,7 @@ Responsible teachers:
 #### Carl Herrmann (carl.herrmann@bioquant.uni-heidelberg.de) - [Health Data Science Unit - Medical Faculty Heidelberg](http://www.hdsu.org)
 #### Maiwen Caudron-Herger (m.caudron@dkfz-heidelberg.de) - Division - RNA Biology & Cancer (B150)
 
-The goal of the Data Analysis Module in the Summer Semester is to provide **hands-on experience** in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.
+The goal of the Data Analysis Module during the Summer Semester is to provide **hands-on experience** in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.
 
 After this module, you will have
 
